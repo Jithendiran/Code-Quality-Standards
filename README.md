@@ -1,47 +1,6 @@
 ## Table of Content
-1. [SOLID](./SOLID/README.md)
-
-
-## Creational
-- Dealing with the creation of objects
-- Explicit(constructor) vs implicit (dependency injection, reflectio, etc,..)
-    Explicit means user calls the contructor, implicit means object creation happens in backend
-
-* Builder
-    - when constructor get bit coomplicated
-* Factories
-    - Abstract Factory
-    - Factory method
-* Prototype
-* Singleton
-
-## Structural
-- concerns with class members
-- wrapper class
-- important for good API design
-
-* Adapter
-* Bridge
-* Composite
-* Decorator
-* Facade
-* Flyweight
-* Proxy
-
-## Behavioral
-- They all different; no central theme
-
-* Chain of Responsibility
-* Command
-* Interperter
-* Iterator
-* Mediator
-* Memento
-* Observer
-* State
-* Strategy
-* Template Method
-* Visitor
+1. [Principle](./Principles/README.md)
+2. [Patterns](./Pattern/README.md)
 
 
 ## References
