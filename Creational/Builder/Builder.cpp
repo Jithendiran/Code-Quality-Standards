@@ -1,5 +1,5 @@
 /*
- * Author: E.K.Jithendiran
+ * Programmer: E.K.Jithendiran
  * Date: 23 Oct 2025
  */
 // g++ Builder.cpp -o /tmp/Builder
