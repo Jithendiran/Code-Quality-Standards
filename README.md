@@ -1,5 +1,5 @@
 ## Table of Content
-1. [Principle](./Principles/README.md)
+1. [Principles](./Principles/README.md)
 2. [Patterns](./Pattern/README.md)
 
 

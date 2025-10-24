@@ -5,7 +5,7 @@
 
 ## Table of content
 1. [Adapter](./Adapter/README.md)
-2. Bridge
+2. [Bridge](./Bridge/README.md)
 3. Composite
 4. Decorator
 5. Facade

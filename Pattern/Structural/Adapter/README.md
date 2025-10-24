@@ -11,5 +11,12 @@
 **Analogy**
 A headphone jack adapter (e.g., converting a large $6.35 \text{ mm}$ jack to a small $3.5 \text{ mm}$ jack). The adapter doesn't change the headphones or the device; it just translates the connection.
 
+or
+![adapter](./src/adapter.png)
+
+i bought laptop in India i travelled to London, there sockets are different so i bought a adapter
+
+
 ## Table of content
 1. [Adapter](./Adapter.cpp)
+2. [Cache Adapter](./CacheAdapter.cpp)
