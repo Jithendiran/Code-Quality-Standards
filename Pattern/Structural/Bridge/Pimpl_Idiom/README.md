@@ -1,6 +1,6 @@
 # Pimpl Idiom (Pointer to Implementation)
 
-The core idea is to move all the private data members and implementation-specific helper methods of a class into a separate, forward-declared class (the "Impl" class) and access it through a pointer within the public interface class
+The main idea is to hide the private details of a class from anyone who uses it. Instead of putting all your private member variables and helper functions inside the class definition in the .h header file, you put them in a separate class (the "implementation" class).
 
 A forward-declared class is a class whose existence is announced to the compiler before its full definition is provided.
 

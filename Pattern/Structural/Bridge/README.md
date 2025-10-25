@@ -24,4 +24,26 @@ Using bridge we can implement like this
 
 ![after](./src/after.png)
 
+## Hierarchies
+
+### Abstraction
+
+Abstraction deals with concepts of entity 
+    - What is the idea
+    - What it's capablity
+    - High level
+
+Deals with Scheduling (Preemptive and Cooerative) 
+
+### Implementation
+
+Implementation deals with how it is going to implement  
+    - How it will be implemented
+    - Low level
+
+Deals with Operating System API (Windows, Unix)
+
 ## Table of content
+1. [PIMPL](./Pimpl_Idiom/README.md)
+2. [WithoutBridge](./WithOutBridge.cpp)
+3. [Bridge](./Bridge.cpp)

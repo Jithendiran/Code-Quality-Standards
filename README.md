@@ -9,6 +9,10 @@
 
 * [Udemy](https://www.udemy.com/course/patterns-cplusplus)
 
+### Webpage
+
+* [Guru](https://refactoring.guru/)
+
 ### Books
 
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.oreilly.com/library/view/design-patterns-elements/0201633612/)

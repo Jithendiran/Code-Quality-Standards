@@ -12,7 +12,7 @@ int main() {
     
     std::cout << "Testing Person class using Pimpl Idiom:\n";
     
-    alice.greet();
+    alice.greet(); // This greet is actually bridging to access the private implementation
 
     std::cout << "\nProgram finished.\n";
 
