@@ -13,6 +13,8 @@ An analogy is customizing a video game character with armor and items.
 
 The core Character is the base object. You can then decorate it with a Helmet, which adds a defense bonus. You can decorate that with Body Armor, which adds more defense and possibly a strength bonus. Finally, you can decorate that with a Magic Sword, which adds an attack bonus.
 
+The Decorator pattern adheres to the **Open/Closed Principle**
+
 ## Table of content
 1. [Dynamic](./Dynamic.cpp)
 2. [Static](./Static.cpp)
