@@ -9,5 +9,5 @@
 3. [Composite](./Composite/README.md)
 4. [Decorator](./Decorator/README.md)
 5. [Facade](./Facade/README.md)
-6. Flyweight
-7. Proxy
+6. [Flyweight](./FlyWeight/README.md)
+7. [Proxy](./Proxy/README.md)
