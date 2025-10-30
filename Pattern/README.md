@@ -4,19 +4,4 @@ In software engineering, a Design Pattern is a formalized description of a well-
 ## Table of content
 - [Creational](./Creational/README.md)
 - [Structural](./Structural/README.md)
-
-## Behavioral
-- They all different; no central theme
-
-* Chain of Responsibility
-* Command
-* Interperter
-* Iterator
-* Mediator
-* Memento
-* Observer
-* State
-* Strategy
-* Template Method
-* Visitor
-
+- [Behavioral](./Behavioral/README.md)
